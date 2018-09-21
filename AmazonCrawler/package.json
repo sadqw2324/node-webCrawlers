@@ -1,0 +1,17 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_ali.js",
+  "dependencies": {
+    "exceljs": "^1.0.0",
+    "iconv-lite": "^0.4.19",
+    "jsdom": "^11.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
